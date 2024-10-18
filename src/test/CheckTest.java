@@ -25,6 +25,7 @@ public class CheckTest {
 		System.out.println("------------------------------");
 		System.out.println("The values getting selected:: ");
 		System.out.println("------------------------------");
+		System.out.println("New changes are commited");
 	}
 
 }
